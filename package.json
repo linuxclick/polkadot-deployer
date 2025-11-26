@@ -46,7 +46,7 @@
     "moment": "^2.24.0",
     "nedb-promises": "^3.0.3",
     "ospath": "^1.2.2",
-    "peer-id": "^0.12.2",
+    "peer-id": "^0.16.0",
     "portastic": "^1.0.1"
   },
   "devDependencies": {
